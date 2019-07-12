@@ -7,7 +7,7 @@ What I learned in the process of working on the project.
 3. Made a singleton class for static classes.
 4. Scripting with VR bluetooth controller.
 5. Learned about probability theory and applied to randomize colors to avoid excessive repetition.
-
+----
 How to open in unity:
 1. Download and install unity 2018 or above version
 2. Create a new project 2D or 3D
